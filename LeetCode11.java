@@ -1,4 +1,5 @@
 public class LeetCode11 {
+
     // Brute-force approach to find the maximum area of water container
     // public int maxArea(int[] height) {
     // int n = height.length;
