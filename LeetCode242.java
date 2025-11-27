@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class LeetCode242 {
     public static boolean isAnagram(String s, String t) {

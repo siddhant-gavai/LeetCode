@@ -25,7 +25,7 @@ public class LeetCode240 {
                 { 13, 19, 20 },
                 { 24, 28, 40 }
         };
-        int target = 28;
+        int target = 17;
 
         System.out.println(searchMatrix(matrix, target));
     }
